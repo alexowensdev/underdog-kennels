@@ -1,0 +1,15 @@
+/*
+Theme Name: Underdog Kennels
+Version: 1.0
+Description: A child theme of Divi
+Author: amangrobang@pawpointmarketing.com
+Template: Divi
+*/
+
+@import url("../Divi/style.css");
+
+@import url("https://use.typekit.net/sxo1opm.css"); 
+h1, h2, h3, h4, h5, h6 {
+	font-family: "alternate-gothic-atf", sans-serif !important;
+	font-weight: 700;
+}
